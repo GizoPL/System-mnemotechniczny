@@ -1,0 +1,21 @@
+C:\Users\Artur Giza\Source\Repos\ConsoleApp34\ConsoleApp34\bin\Debug\ConsoleApp34.exe.config
+C:\Users\Artur Giza\Source\Repos\ConsoleApp34\ConsoleApp34\bin\Debug\ConsoleApp34.exe
+C:\Users\Artur Giza\Source\Repos\ConsoleApp34\ConsoleApp34\bin\Debug\ConsoleApp34.pdb
+C:\Users\Artur Giza\Source\Repos\ConsoleApp34\ConsoleApp34\obj\Debug\ConsoleApp34.csprojAssemblyReference.cache
+C:\Users\Artur Giza\Source\Repos\ConsoleApp34\ConsoleApp34\obj\Debug\ConsoleApp34.csproj.CoreCompileInputs.cache
+C:\Users\Artur Giza\Source\Repos\ConsoleApp34\ConsoleApp34\obj\Debug\ConsoleApp34.exe
+C:\Users\Artur Giza\Source\Repos\ConsoleApp34\ConsoleApp34\obj\Debug\ConsoleApp34.pdb
+C:\Users\Artur Giza\Desktop\Algorytmy i Struktury Danych - Projekt\ConsoleApp34\bin\Debug\ConsoleApp34.exe.config
+C:\Users\Artur Giza\Desktop\Algorytmy i Struktury Danych - Projekt\ConsoleApp34\bin\Debug\ConsoleApp34.exe
+C:\Users\Artur Giza\Desktop\Algorytmy i Struktury Danych - Projekt\ConsoleApp34\bin\Debug\ConsoleApp34.pdb
+C:\Users\Artur Giza\Desktop\Algorytmy i Struktury Danych - Projekt\ConsoleApp34\obj\Debug\ConsoleApp34.csprojAssemblyReference.cache
+C:\Users\Artur Giza\Desktop\Algorytmy i Struktury Danych - Projekt\ConsoleApp34\obj\Debug\ConsoleApp34.csproj.CoreCompileInputs.cache
+C:\Users\Artur Giza\Desktop\Algorytmy i Struktury Danych - Projekt\ConsoleApp34\obj\Debug\ConsoleApp34.exe
+C:\Users\Artur Giza\Desktop\Algorytmy i Struktury Danych - Projekt\ConsoleApp34\obj\Debug\ConsoleApp34.pdb
+C:\Users\Artur Giza\Desktop\Artur\studia\4 sem\algorytmy i struktura danych\Algorytmy i Struktury Danych - Projekt\ConsoleApp34\bin\Debug\ConsoleApp34.exe.config
+C:\Users\Artur Giza\Desktop\Artur\studia\4 sem\algorytmy i struktura danych\Algorytmy i Struktury Danych - Projekt\ConsoleApp34\bin\Debug\ConsoleApp34.exe
+C:\Users\Artur Giza\Desktop\Artur\studia\4 sem\algorytmy i struktura danych\Algorytmy i Struktury Danych - Projekt\ConsoleApp34\bin\Debug\ConsoleApp34.pdb
+C:\Users\Artur Giza\Desktop\Artur\studia\4 sem\algorytmy i struktura danych\Algorytmy i Struktury Danych - Projekt\ConsoleApp34\obj\Debug\ConsoleApp34.csprojAssemblyReference.cache
+C:\Users\Artur Giza\Desktop\Artur\studia\4 sem\algorytmy i struktura danych\Algorytmy i Struktury Danych - Projekt\ConsoleApp34\obj\Debug\ConsoleApp34.csproj.CoreCompileInputs.cache
+C:\Users\Artur Giza\Desktop\Artur\studia\4 sem\algorytmy i struktura danych\Algorytmy i Struktury Danych - Projekt\ConsoleApp34\obj\Debug\ConsoleApp34.exe
+C:\Users\Artur Giza\Desktop\Artur\studia\4 sem\algorytmy i struktura danych\Algorytmy i Struktury Danych - Projekt\ConsoleApp34\obj\Debug\ConsoleApp34.pdb
